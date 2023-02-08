@@ -1,5 +1,5 @@
-\name{BoostrapCI}
-\alias{BoostrapCI}
+\name{IC.boot}
+\alias{IC.boot}
 \title{Prueba, BoostrapCI!}
 \usage{
 IC.boot()
