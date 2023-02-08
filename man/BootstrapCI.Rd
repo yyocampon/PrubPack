@@ -2,11 +2,11 @@
 \alias{BoostrapCI}
 \title{Prueba, BoostrapCI!}
 \usage{
-BoostrapCI()
+IC.boot()
 }
 \description{
 probamos que si muestre la info de BoostrapCI.
 }
 \examples{
-BoostrapCI()
+IC.boot()
 }
