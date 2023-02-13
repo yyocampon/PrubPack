@@ -1,8 +1,8 @@
-\name{hello}
-\alias{hello}
-\title{Hello, World!}
+\name{Minimax.estimator}
+\alias{Minimax.estimator}
+\title{Minimax.estimator}
 \usage{
-hello()
+Minimax.estimator()
 }
 \description{
 Prints 'Hello, world!'.
@@ -12,7 +12,7 @@ Prints 'Hello, world!'.
   \item{level}{the confidence level of the interval.}
 }
 \examples{
-hello()
+Minimax.estimator()
 }
 \references{Correa-Morales, J. C. (2022) Analysis of CATegoriacal Data Via GSK and Simulation Using R: Lecture Notes. Escuela de Estadistica. Facultad de Ciencias. Universidad Nacional de Colombia. Sede Medellin.}
 

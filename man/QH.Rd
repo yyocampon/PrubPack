@@ -1,8 +1,8 @@
-\name{hello}
-\alias{hello}
-\title{Hello, World!}
+\name{QH}
+\alias{QH}
+\title{QH}
 \usage{
-hello()
+QH()
 }
 \description{
 Prints 'Hello, world!'.
@@ -12,7 +12,7 @@ Prints 'Hello, world!'.
   \item{level}{the confidence level of the interval.}
 }
 \examples{
-hello()
+QH()
 }
 \references{Correa-Morales, J. C. (2022) Analysis of CATegoriacal Data Via GSK and Simulation Using R: Lecture Notes. Escuela de Estadistica. Facultad de Ciencias. Universidad Nacional de Colombia. Sede Medellin.}
 

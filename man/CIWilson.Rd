@@ -1,8 +1,8 @@
-\name{hello}
-\alias{hello}
-\title{Hello, World!}
+\name{IC.Wilson}
+\alias{IC.Wilson}
+\title{IC.Wilson}
 \usage{
-hello()
+IC.Wilson()
 }
 \description{
 Prints 'Hello, world!'.
@@ -12,7 +12,7 @@ Prints 'Hello, world!'.
   \item{level}{the confidence level of the interval.}
 }
 \examples{
-hello()
+IC.Wilson()
 }
 \references{Correa-Morales, J. C. (2022) Analysis of CATegoriacal Data Via GSK and Simulation Using R: Lecture Notes. Escuela de Estadistica. Facultad de Ciencias. Universidad Nacional de Colombia. Sede Medellin.}
 

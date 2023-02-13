@@ -1,8 +1,8 @@
-\name{hello}
-\alias{hello}
-\title{Hello, World!}
+\name{IC.dirichlet}
+\alias{IC.dirichlet}
+\title{IC.dirichlet}
 \usage{
-hello()
+IC.dirichlet()
 }
 \description{
 Prints 'Hello, world!'.
@@ -12,7 +12,6 @@ Prints 'Hello, world!'.
   \item{level}{the confidence level of the interval.}
 }
 \examples{
-hello()
+IC.dirichlet()
 }
 \references{Correa-Morales, J. C. (2022) Analysis of CATegoriacal Data Via GSK and Simulation Using R: Lecture Notes. Escuela de Estadistica. Facultad de Ciencias. Universidad Nacional de Colombia. Sede Medellin.}
-
